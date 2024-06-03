@@ -18,4 +18,4 @@
 
 - 🦾 [TypeScript](https://github.com/microsoft/TypeScript) - Type safety for Javascript.
 
-- 🏎 [Vercel](https://vercel.com/home) - Zero-config cloud functions and deploy.
+- 🏎 [Cloudflare Pages](https://pages.cloudflare.com/) - Zero-config cloud functions and deploy.
